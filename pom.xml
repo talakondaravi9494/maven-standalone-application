@@ -11,14 +11,14 @@
 	<url>http://mithuntechnologies.com</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Mithun Technologies</name>http://54.176.38.166/
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
+		<sonar.host.url>http://54.176.38.166:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
